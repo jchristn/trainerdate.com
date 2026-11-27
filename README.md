@@ -19,6 +19,9 @@ Every page leads with what the platform does and what that gets each audience.
 | `get-started.html` | People starting out: matchmaking, prices up front, free consults, the first month, help between sessions |
 | `pricing.html` | All plans, the Creator add-on, a full comparison table, pricing principles |
 | `about.html` | The 2011 original, why the reboot runs the business, launch region, operator |
+| `privacy.html` | Privacy Policy (same text as the app's `/privacy`, from `property/legal/privacy-policy.md` in the main repository) |
+| `terms.html` | Terms of Service (same text as the app's `/terms`, from `property/legal/terms-of-service.md`) |
+| `private.html` | Redirect to `privacy.html` |
 | `404.html` | Not-found page for GitHub Pages |
 
 ## Development

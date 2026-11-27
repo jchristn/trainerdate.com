@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-26
+
+- Privacy Policy (`privacy.html`) and Terms of Service (`terms.html`), the same documents the Trainerdate app serves at `app.trainerdate.com/privacy` and `/terms`; `/private` redirects to the privacy policy; footer links on every page; sitemap entries.
+
 ## 2026-11-21
 
 - Initial marketing website for trainerdate.com: home, For trainers, For gyms, For enthusiasts, Get started, Pricing, About, and 404 pages.
